@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#F8C9C9</color>
+    <color name="status_active">#1DD75B</color>
+    <color name="silver">#E6E3F5</color>
+    <color name="status_inactive">#DEE1E6</color>
+    <color name="green_send">#9C7BC594</color>
+    <color name="gray_received">#9CA3A6A4</color>
+</resources>
