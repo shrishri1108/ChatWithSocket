@@ -58,3 +58,170 @@ com_crashlytics_export_strings.xml
 # UI cache
 .captures/
 
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+# Built application files
+*.apk
+*.ap_
+
+# Files for the Dalvik/Art VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio generated files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Keystore files
+*.jks
+*.keystore
+
+# Proguard files
+proguard/
+
+# Log files
+*.log
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+*.lnk
+
+# IntelliJ IDEA
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/assetWizardSettings.xml
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/dictionaries
+.idea/modules
+.idea/caches/
+.idea/tasks.xml
+.idea/assetWizardSettings.xml
+.idea/markdown_navigator.xml
+.idea/watchpoints.xml
+
+# VS Code
+.vscode/
+
+# Ignore Gradle Wrapper files
+gradle/wrapper/gradle-wrapper.jar
+.gradle/
+
+# Ignore build folder
+build/
+*/build/
+
+# Ignore Android specific build folders
+**/captures/
+**/outputs/
+**/generated/
+**/intermediates/
+**/release/
+
+# Ignore signing configs
+signing.properties
+
+# Ignore lint report
+lint/reports/
+lint/results/
+
+# Ignore APK/Bundle files
+*.aab
+
+# Ignore test results
+**/test-results/
+**/androidTest-results/
+**/test-report/
+**/androidTest-report/
+
+# Ignore crash logs
+crashlytics/
+
+# Ignore local test configurations
+.idea/runConfigurations/
+
+# Ignore Kotlin specific files
+*.kotlin_metadata/
+*.kotlin_module/
+
+# Ignore NDK files
+**/obj/
+
+# Ignore Google Services
+google-services.json
+
+# Ignore Firebase configuration files
+firebase.json
+firebase-debug.log
+
+# Ignore caches and lock files
+**/*.lock
+**/.cache/
+**/.temp/
+
+# Ignore miscellaneous files
+.env
+.vscode/
+
+# Ignore generated JSON files
+**/debug/android/metadata.json
+**/release/android/metadata.json
+
+# Ignore coverage reports
+**/jacoco/test.exec
+**/reports/
+**/coverage/
+**/cobertura/
+
+# Ignore Yarn lock files
+yarn.lock
+
+# Ignore node_modules (if using React Native or NodeJS for some libraries)
+node_modules/
+
+# Ignore Kotlin symbolic caches
+.kotlin_classes/
+**/kotlin/
+
+# Ignore flutter related files
+.flutter-plugins
+.packages
+pubspec.lock
+.flutter-plugins-dependencies
